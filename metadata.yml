@@ -1,0 +1,12 @@
+---
+:id: 296439598
+:submitters:
+- :name: Anna Zou
+  :email: yalun.zou@tufts.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-12-11 00:15:30.077038000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-12-10 16:15:30.077038000 Z
+:status: processed
+:score: 95.0
