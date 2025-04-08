@@ -2,3 +2,5 @@ This is a multi-threaded simulation of the MBTA. In this simulation, passengers 
   
   "Passenger Alice boards red at Harvard"
   "Passenger Tom deboards green at Boylston"
+
+Each passenger and train is represented by separate threads, so you may see different logs everytime you run it!
